@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SqlConnectionString": "Server=tcp:azure-handson.database.windows.net,1433;Initial Catalog=db-team1;Persist Security Info=False;User ID=azure-admin;Password=root$123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+    "keyvault": "https://app-secrets-team1.vault.azure.net/secrets/"
+  }
+}
